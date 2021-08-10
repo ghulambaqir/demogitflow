@@ -5,3 +5,5 @@ Updated second.txt file
 fast forward
 
 merge commit 
+
+rebase
