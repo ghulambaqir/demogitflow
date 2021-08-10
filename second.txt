@@ -3,3 +3,5 @@ this is my second file.
 Updated second.txt file
 
 fast forward
+
+merge commit 
